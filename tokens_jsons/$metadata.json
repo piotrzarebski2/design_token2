@@ -1,0 +1,11 @@
+{
+  "tokenSetOrder": [
+    "@XXL",
+    "@XL",
+    "@L",
+    "@M",
+    "M test",
+    "typo/L test",
+    "typo"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "fontFamilies": {
+    "barlow": {
+      "value": "Barlow",
+      "type": "fontFamilies"
+    }
+  },
+  "base_Fontsize": {
+    "value": "12",
+    "type": "fontSizes"
+  },
+  "main": {
+    "value": "10",
+    "type": "other"
+  },
+  "baseSize": {
+    "value": "6",
+    "type": "spacing"
+  },
+  "layout": {
+    "mainConteiner": {
+      "value": "960",
+      "type": "sizing"
+    },
+    "_canvasSize": {
+      "value": "1140",
+      "type": "sizing"
+    }
+  }
+}
