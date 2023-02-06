@@ -1,48 +1,8 @@
 {
-  "space": {
-    "x1": {
-      "value": "{baseSize}",
-      "type": "spacing"
-    },
-    "x05": {
-      "value": "{baseSize}*0.5",
-      "type": "spacing"
-    },
-    "x025": {
-      "value": "{baseSize}*0.25",
-      "type": "spacing"
-    },
-    "x0125": {
-      "value": "{baseSize}*0.125",
-      "type": "spacing"
-    },
-    "x2": {
-      "value": "{baseSize}*2",
-      "type": "spacing"
-    }
-  },
   "fontFamilies": {
     "barlow": {
       "value": "Barlow",
       "type": "fontFamilies"
-    }
-  },
-  "fontWeights": {
-    "400": {
-      "value": "Regular",
-      "type": "fontWeights"
-    },
-    "500": {
-      "value": "Medium",
-      "type": "fontWeights"
-    },
-    "700": {
-      "value": "Bold",
-      "type": "fontWeights"
-    },
-    "900": {
-      "value": "Black",
-      "type": "fontWeights"
     }
   },
   "letterSpacing": {
