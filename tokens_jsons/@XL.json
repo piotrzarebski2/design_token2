@@ -45,52 +45,6 @@
       "type": "fontWeights"
     }
   },
-  "fontSize": {
-    "0-625": {
-      "value": "{base_Fontsize}*0.625",
-      "type": "fontSizes"
-    },
-    "0-75": {
-      "value": "{base_Fontsize}*0.75",
-      "type": "fontSizes"
-    },
-    "0-875": {
-      "value": "{base_Fontsize}*0.875",
-      "type": "fontSizes"
-    },
-    "1-": {
-      "value": "{base_Fontsize}",
-      "type": "fontSizes"
-    },
-    "1-25": {
-      "value": "{base_Fontsize}*1.25",
-      "type": "fontSizes"
-    },
-    "1-625": {
-      "value": "{base_Fontsize}*1.625",
-      "type": "fontSizes"
-    },
-    "2-": {
-      "value": "{base_Fontsize}*2",
-      "type": "fontSizes"
-    },
-    "3-": {
-      "value": "{base_Fontsize}*3",
-      "type": "fontSizes"
-    },
-    "3-5": {
-      "value": "{base_Fontsize}*3.5",
-      "type": "fontSizes"
-    },
-    "5-": {
-      "value": "{base_Fontsize}*5",
-      "type": "fontSizes"
-    },
-    "6-25": {
-      "value": "{base_Fontsize}*6.25",
-      "type": "fontSizes"
-    }
-  },
   "letterSpacing": {
     "0": {
       "value": "0%",
