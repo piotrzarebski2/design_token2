@@ -44,7 +44,7 @@
     }
   },
   "base_Fontsize": {
-    "value": "{main}",
+    "value": "15",
     "type": "fontSizes"
   },
   "lineHeights": {
