@@ -6,7 +6,7 @@
     }
   },
   "base_Fontsize": {
-    "value": "{main}",
+    "value": "12",
     "type": "fontSizes"
   },
   "main": {

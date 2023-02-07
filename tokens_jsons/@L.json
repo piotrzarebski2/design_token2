@@ -1,26 +1,4 @@
 {
-  "space": {
-    "x1": {
-      "value": "{baseSize}",
-      "type": "spacing"
-    },
-    "x05": {
-      "value": "{baseSize}*0.5",
-      "type": "spacing"
-    },
-    "x025": {
-      "value": "{baseSize}*0.25",
-      "type": "spacing"
-    },
-    "x0125": {
-      "value": "{baseSize}*0.125",
-      "type": "spacing"
-    },
-    "x2": {
-      "value": "{baseSize}*2",
-      "type": "spacing"
-    }
-  },
   "fontFamilies": {
     "barlow": {
       "value": "Barlow",
@@ -84,7 +62,7 @@
     }
   },
   "base_Fontsize": {
-    "value": "{main}",
+    "value": "14",
     "type": "fontSizes"
   },
   "lineHeights": {
