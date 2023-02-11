@@ -158,6 +158,18 @@
       "secondary-focus": {
         "value": "{surface.buttons.secondary-default}",
         "type": "color"
+      },
+      "border-secondary-default": {
+        "value": "{surface.bg.300}",
+        "type": "color"
+      },
+      "border-secondary-hover": {
+        "value": "{surface.bg.300}",
+        "type": "color"
+      },
+      "border-secondary-pressed": {
+        "value": "{global.light-grey-900}",
+        "type": "color"
       }
     }
   },

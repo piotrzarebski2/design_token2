@@ -185,7 +185,10 @@
       "surface.buttons.secondary-default": "S:729c9e6c3318de764adff49b7cb1e69b5d1b6c86,",
       "surface.buttons.secondary-hover": "S:009a9c11b0070ce0b35fd53aec2b55318f752bc7,",
       "surface.buttons.secondary-pressed": "S:e84b7e72fc3a11920b4856fa32c491747789f9e4,",
-      "surface.buttons.secondary-focus": "S:dc0f9e333b3a674612cdf5d02671e94e4a42dd8e,"
+      "surface.buttons.secondary-focus": "S:dc0f9e333b3a674612cdf5d02671e94e4a42dd8e,",
+      "surface.buttons.border-secondary-default": "S:567a48978fc5d45b74066a823e3c7d62b60d5eb5,",
+      "surface.buttons.border-secondary-hover": "S:06d828d321cf4e6f4bf4ceb415b53d500be4df80,",
+      "surface.buttons.border-secondary-pressed": "S:1b26105a9366df7a80170fc2116e7a45b735ca15,"
     }
   },
   {
