@@ -1,9 +1,31 @@
 [
   {
+    "id": "534fe17427258bd36494da4cdd4b92d5c6b66ae3",
+    "name": "@M",
+    "selectedTokenSets": {
+      "@XXL": "source",
+      "@M": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "9779fd5141930ffb892e1ca48b487bc77f9992a0",
+    "name": "@XL",
+    "selectedTokenSets": {
+      "@XXL": "source",
+      "@XL": "enabled",
+      "colors/global": "source",
+      "colors/semantic": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
     "id": "2236f7abaa3bb65718452e11b4db59d8d3473ee2",
     "name": "@XXL",
     "selectedTokenSets": {
-      "@XXL": "enabled"
+      "@XXL": "enabled",
+      "colors/global": "source",
+      "colors/semantic": "enabled"
     },
     "$figmaStyleReferences": {
       "xl.10 - XXS regular": "S:e05fcbbc57edfc8e93250e03b0a7f54a2601eb98,",
@@ -115,7 +137,46 @@
       "XXL black": "S:fc513010c37018733b1e423045e93a851982945f,",
       "3XL black": "S:f2f6857cc421a8a8684070351e05a108dfe6a5e4,",
       "4XL black": "S:46260d809354ab6f738b7761cbb78c74942fea1c,",
-      "5XL black": "S:bd1c8247970c4e72f9e4e6c2b6fc534ead206a34,"
+      "5XL black": "S:bd1c8247970c4e72f9e4e6c2b6fc534ead206a34,",
+      "surface.bg.100": "S:3632ec7e6ae5982c28626719d868e0cbf70c4e87,",
+      "surface.bg.200": "S:67109a368196954fd21d4294978b93834bffdd66,",
+      "surface.bg.300": "S:59380d131549d4f5a9b9c8f88270fca50e37cc5c,",
+      "surface.bg.00": "S:48c4587a0438f8f75afa72b4466f44540a64e950,",
+      "surface.alpha-bg.alpha-00": "S:ba46835b6a60dc2ff639b4dcd63fef655bfbccf8,",
+      "surface.alpha-bg.alpha-05": "S:3c862180d8d957c0c1747d0a44aa4c1ba098ae2c,",
+      "surface.alpha-bg.alpha-10": "S:a6c7824837e1405c57e125583949ce9f4fb0e0cb,",
+      "surface.alpha-bg.alpha-15": "S:7d8828bed5cada9006a7a3ee024ea0374738870c,",
+      "surface.alpha-bg.alpha-20": "S:1cff0dfecfc426d156c15970ac56208d3310015a,",
+      "surface.alpha-bg.alpha-30": "S:c9854fcc933bb6f3a4e2ace2a6647bf6298d0a8b,",
+      "surface.alpha-bg.alpha-50": "S:163e851ad29d325d40dd0361dddc200c5a327fa0,",
+      "surface.alpha-bg.alpha-75": "S:2558459d773265ccbe102dc08c8032ce98f989be,",
+      "surface.alpha-bg.alpha-E6": "S:81d22cda6a0c955b793fc2aa8d0966f8bbb834b3,",
+      "surface.bg-high-emphasis": "S:a8db1c3204d1d86917dbd2205f0231692df00da2,",
+      "surface.bg-high-emphasis-100": "S:c89e062cdc9b97c5114f9de5a7ebea93c82e8ae6,",
+      "surface.bg-high-emphasis-200": "S:2bdeb0f490ac6efae13645a2995551968db668be,",
+      "surface.bg-high-emphasis-300": "S:75e1ad88834e332f7cf5436c01bad42ad0098e62,",
+      "surface.border.200": "S:4067d7c162f4555d97153ec003fac74929656ad3,",
+      "surface.border.400": "S:fb144c9485c649a61ed32dbc3aeca247863c6463,",
+      "surface.alpha-bg-high-emphasis.alpha-00": "S:17d9a127b8c3e4eae7a7428dd204eab9ee03b178,",
+      "surface.alpha-bg-high-emphasis.alpha-05": "S:a84dabd431e2d38a03d4e1bed50375999484938b,",
+      "surface.alpha-bg-high-emphasis.alpha-10": "S:68481d4dd41463683ad35ac9ec35f8abadc02c1b,",
+      "surface.alpha-bg-high-emphasis.alpha-15": "S:689e8b7fb2bf18edd03cbf967e4f691a95262095,",
+      "surface.alpha-bg-high-emphasis.alpha-20": "S:e28b73d61e57dc5d2374254ce23165b45f00802a,",
+      "surface.alpha-bg-high-emphasis.alpha-30": "S:cf97e1c777d17a24e1072badf559081a4c9b0202,",
+      "surface.alpha-bg-high-emphasis.alpha-50": "S:6e402240e3f0278f425b82fe9245fb2c595b452f,",
+      "surface.alpha-bg-high-emphasis.alpha-75": "S:789daa96c791ca7fddb5220ee0e1ce33958d924f,",
+      "surface.alpha-bg-high-emphasis.alpha-E6": "S:cdf61fe1177ada682cbf7e450f74adb804de6ed8,",
+      "fonts.fonts-base": "S:c5dbf11bdb990f20cf4463e39602ec1182bb4e34,",
+      "fonts.fonts-subtle": "S:82433c7c4fb91b44e123345b4bf80ee5ce653683,",
+      "fonts.fonts-subtle-inverse": "S:89fd45ca2abb26ae509f07fd32a6134cfad5bf3e,",
+      "fonts.fonts-nonessential": "S:4e98c4e6b36923ee65bc33e114b4fffae7c92ef5,",
+      "fonts.fonts-nonessential-inverse": "S:d2e8e0bec9478a58574bdcb71a8ba14bafc9b0e9,",
+      "fonts.fonts-base-inverse": "S:dc283f49ca69362b3c2ae88e28876178ede23065,",
+      "accent.sccent-grass-base": "S:38c64c9a9cd70efb19dda363e19cb5c8ee12bec6,",
+      "accent.sccent-grass-light": "S:ca41aa06bb5135031f6a4adc554740023b19e552,",
+      "accent.sccent-grass-dark": "S:829042049322a4aa0c4ed36e0d34521ba34dcba2,",
+      "icon.base": "S:5116e2802ca69915cdd66d08c1c9e92e1eff5858,",
+      "icon.base-inverse": "S:05f452961b31ace69959aaddfcdb4d049259b3e6,"
     }
   },
   {
@@ -123,25 +184,9 @@
     "name": "@L",
     "selectedTokenSets": {
       "@XXL": "source",
-      "@L": "enabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "534fe17427258bd36494da4cdd4b92d5c6b66ae3",
-    "name": "@M",
-    "selectedTokenSets": {
-      "@XXL": "source",
-      "@M": "enabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "9779fd5141930ffb892e1ca48b487bc77f9992a0",
-    "name": "@XL",
-    "selectedTokenSets": {
-      "@XXL": "source",
-      "@XL": "enabled"
+      "@L": "enabled",
+      "colors/global": "source",
+      "colors/semantic": "enabled"
     },
     "$figmaStyleReferences": {}
   }

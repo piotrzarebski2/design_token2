@@ -6,6 +6,8 @@
     "@M",
     "M test",
     "typo/L test",
-    "typo"
+    "typo",
+    "colors/global",
+    "colors/semantic"
   ]
 }
