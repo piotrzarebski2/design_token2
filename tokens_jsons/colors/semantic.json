@@ -125,6 +125,40 @@
         "value": "{surface.bg-high-emphasis}BF",
         "type": "color"
       }
+    },
+    "buttons": {
+      "primary-default": {
+        "value": "{surface.bg-high-emphasis}",
+        "type": "color"
+      },
+      "primary-hover": {
+        "value": "{global.dark-grey-600}",
+        "type": "color"
+      },
+      "primary-presset": {
+        "value": "{global.dark-grey-800}",
+        "type": "color"
+      },
+      "primary-focus": {
+        "value": "{global.dark-grey-900}",
+        "type": "color"
+      },
+      "secondary-default": {
+        "value": "{global.light-grey-600}",
+        "type": "color"
+      },
+      "secondary-hover": {
+        "value": "{global.light-grey-700}",
+        "type": "color"
+      },
+      "secondary-pressed": {
+        "value": "{global.light-grey-800}",
+        "type": "color"
+      },
+      "secondary-focus": {
+        "value": "{surface.buttons.secondary-default}",
+        "type": "color"
+      }
     }
   },
   "fonts": {

@@ -176,7 +176,16 @@
       "accent.sccent-grass-light": "S:ca41aa06bb5135031f6a4adc554740023b19e552,",
       "accent.sccent-grass-dark": "S:829042049322a4aa0c4ed36e0d34521ba34dcba2,",
       "icon.base": "S:5116e2802ca69915cdd66d08c1c9e92e1eff5858,",
-      "icon.base-inverse": "S:05f452961b31ace69959aaddfcdb4d049259b3e6,"
+      "icon.base-inverse": "S:05f452961b31ace69959aaddfcdb4d049259b3e6,",
+      "theme.theme-color": "S:30facdd8ea1b73ba0f06095d65ea4425db780067,",
+      "surface.buttons.primary-default": "S:bcda72b0571b83fc3c827287f507848a7507ef6e,",
+      "surface.buttons.primary-hover": "S:94875c11976abaa084edc60bc41f48610f25d4ac,",
+      "surface.buttons.primary-presset": "S:67555e160b0110afc888c0d021c4cb348329e227,",
+      "surface.buttons.primary-focus": "S:e541fc0ae6009217ed064fe2af36c7937f06f0f4,",
+      "surface.buttons.secondary-default": "S:729c9e6c3318de764adff49b7cb1e69b5d1b6c86,",
+      "surface.buttons.secondary-hover": "S:009a9c11b0070ce0b35fd53aec2b55318f752bc7,",
+      "surface.buttons.secondary-pressed": "S:e84b7e72fc3a11920b4856fa32c491747789f9e4,",
+      "surface.buttons.secondary-focus": "S:dc0f9e333b3a674612cdf5d02671e94e4a42dd8e,"
     }
   },
   {
