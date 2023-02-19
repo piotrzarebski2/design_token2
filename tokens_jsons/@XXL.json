@@ -707,12 +707,12 @@
     },
     "type": "typography"
   },
-  "XL black - uppercase": {
+  "XXL black - uppercase": {
     "value": {
       "fontFamily": "{fontFamilies.barlow}",
       "fontWeight": "{fontWeights.900}",
       "lineHeight": "{lineHeights.120}",
-      "fontSize": "{fontSize.XL}",
+      "fontSize": "{fontSize.XXL}",
       "letterSpacing": "{letterSpacing.0}",
       "paragraphSpacing": "{paragraphSpacing.0}",
       "paragraphIndent": "{paragraphIndent.0}",
@@ -721,12 +721,12 @@
     },
     "type": "typography"
   },
-  "XXL black - uppercase": {
+  "XL black - uppercase": {
     "value": {
       "fontFamily": "{fontFamilies.barlow}",
       "fontWeight": "{fontWeights.900}",
       "lineHeight": "{lineHeights.120}",
-      "fontSize": "{fontSize.XXL}",
+      "fontSize": "{fontSize.XL}",
       "letterSpacing": "{letterSpacing.0}",
       "paragraphSpacing": "{paragraphSpacing.0}",
       "paragraphIndent": "{paragraphIndent.0}",
