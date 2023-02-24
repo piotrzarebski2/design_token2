@@ -8,16 +8,43 @@
   "surface": {
     "bg": {
       "100": {
-        "value": "{global.dark-grey-800}",
-        "type": "color"
+        "value": "{theme.theme-color}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.05",
+              "space": "hsl"
+            }
+          }
+        }
       },
       "200": {
-        "value": "{global.light-grey-600}",
-        "type": "color"
+        "value": "{theme.theme-color}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.15",
+              "space": "hsl"
+            }
+          }
+        }
       },
       "300": {
-        "value": "{global.light-grey-800}",
-        "type": "color"
+        "value": "{theme.theme-color}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.2",
+              "space": "hsl"
+            }
+          }
+        }
       },
       "00": {
         "value": "{theme.theme-color}",
