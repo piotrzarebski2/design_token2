@@ -1,9 +1,5 @@
 {
   "space": {
-    "x1": {
-      "value": "{baseSize}",
-      "type": "spacing"
-    },
     "x0_5": {
       "value": "{baseSize}*0.5",
       "type": "spacing"
@@ -46,6 +42,14 @@
     },
     "x6": {
       "value": "{baseSize}*6",
+      "type": "spacing"
+    },
+    "x1": {
+      "value": "{baseSize}",
+      "type": "spacing"
+    },
+    "x0": {
+      "value": "0",
       "type": "spacing"
     }
   },
@@ -960,6 +964,10 @@
     },
     "_canvasSize": {
       "value": "1728",
+      "type": "sizing"
+    },
+    "_icon_base": {
+      "value": "24",
       "type": "sizing"
     }
   }

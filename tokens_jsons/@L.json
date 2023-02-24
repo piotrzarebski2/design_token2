@@ -865,6 +865,10 @@
     "_canvasSize": {
       "value": "1140",
       "type": "sizing"
+    },
+    "_icon_base": {
+      "value": "22",
+      "type": "sizing"
     }
   }
 }
