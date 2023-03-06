@@ -111,7 +111,7 @@
         "type": "color"
       },
       "400": {
-        "value": "{global.dark-grey-900}",
+        "value": "{surface.bg-high-emphasis}",
         "type": "color"
       }
     },
