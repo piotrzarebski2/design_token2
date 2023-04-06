@@ -488,5 +488,16 @@
       "4XL black": "S:a096da1fde9a62cdb006d359449b5a020a7e83fc,",
       "5XL black": "S:02a9afb801c1c8b819a878cd21ce532f32f90d90,"
     }
+  },
+  {
+    "id": "2a42cd7d74ecc9aa5a0601015f4f831b7803cfe0",
+    "name": "@S",
+    "selectedTokenSets": {
+      "colors/global": "source",
+      "colors/semantic": "enabled",
+      "@s": "enabled",
+      "@XXL": "source"
+    },
+    "$figmaStyleReferences": {}
   }
 ]
