@@ -197,6 +197,10 @@
     "fonts-base-inverse": {
       "value": "{global.light-grey-200}",
       "type": "color"
+    },
+    "link": {
+      "value": "{global.blue-700}",
+      "type": "color"
     }
   },
   "accent": {
